@@ -1,5 +1,5 @@
 # Requirements for OctoFit Tracker backend
 # Based on MonaFit Tracker guide
 
-django
+Django==4.1
 djangorestframework
